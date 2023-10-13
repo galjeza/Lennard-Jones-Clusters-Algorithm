@@ -1,0 +1,3 @@
+D:/galje/Desktop/FERI/3_letnik/PIPR/vaja_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/galje/Desktop/FERI/3_letnik/PIPR/vaja_1/cmake-build-debug/CMakeFiles/vaja_1.dir
+D:/galje/Desktop/FERI/3_letnik/PIPR/vaja_1/cmake-build-debug/CMakeFiles/edit_cache.dir

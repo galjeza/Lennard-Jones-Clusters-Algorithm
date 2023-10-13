@@ -1,0 +1,2 @@
+uporabi rand iz c++ 11 ker starejsi ne podpira paralelizacije
+Zgornja in spodnja meja -6, +6
